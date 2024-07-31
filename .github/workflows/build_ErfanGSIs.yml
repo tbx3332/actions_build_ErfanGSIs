@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://phoenixnap.dl.sourceforge.net/project/crdroid/laurel_sprout/8.x/crDroidAndroid-12.1-20220811-laurel_sprout-v8.8.zip?viasf=1
   ROM_NAME: CrDroid
-  BUILD_TYPE: AB
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
